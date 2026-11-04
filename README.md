@@ -46,49 +46,15 @@ The goal is to progress from microcontroller fundamentals to complete embedded s
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 01 · Basic Projects
+### 🟢 01 · Projects
 
 Building a strong foundation in microcontrollers and digital I/O.
 
 - LED Blink
 - RGB LED Controller
+- Actively exploring and learning...
 
 <sub>GPIO · Digital I/O · Timing</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 02 · Intermediate Projects
-
-Working with peripherals, communication, and structured firmware.
-
-Actively learning right now...
-
-<sub>PWM · UART · Sensor Interfaces</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 03 · Original Projects
-
-Developing practical embedded solutions through independent engineering work.
-
-Actively learning right now...
-
-<sub>Monitoring · Control · System Integration</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🟠 04 · Advanced Systems
-
-Exploring more complex firmware architecture and system-level engineering.
-
-Actively learning right now...
-
-<sub>Scheduling · Reliability · System Design</sub>
 
 </td>
 </tr>
